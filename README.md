@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD032 -->
 <!-- markdownlint-disable MD022 -->
 
-<img src="" alt="imagen de Portada" style="width: 100%;">
+<img src="img/bgEncabezaForohub.jpg" alt="imagen de Portada" style="width: 100%;">
 
 El desafío ForoHub consiste en crear una aplicación web que administre un foro. Aclarando que esta etapa backend se centrará en lo referido a los tópicos. Es decir que deberá permitir que un usuario autenticado y autorizado pueda realizar un CRUD de los tópicos.
 
